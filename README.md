@@ -2,7 +2,7 @@ Top movies scrap from imdb
 
 ## Install
 
-`git https://github.com/isaurssaurav/scrap.git`
+`git https://github.com/lovehelo98/scrap.git`
 
 `cd scrap`
 
